@@ -4,9 +4,9 @@
 	{
 		"Version"
 		{
-			"Latest" "1.6.3-10-g055989c.77-tf2ii"
+			"Latest" "1.6.3-11-gdb3f665.78-tf2ii"
 		}
-		"Notes" "Version 1.6.3-10-g055989c.77-tf2ii is out!"
+		"Notes" "Version 1.6.3-11-gdb3f665.78-tf2ii is out!"
 		"Notes" "Go to https://github.com/servadestroya/TF2-Taunts-TF2IDB to see the changes"
 	}
 	"Files"
