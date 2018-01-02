@@ -4,14 +4,19 @@
 	{
 		"Version"
 		{
-			"Latest" "1.6.3-8-gba513d0.58-tf2ii"
+			"Latest" "1.6.3-10-g055989c.77-tf2ii"
 		}
-		"Notes" "Version 1.6.3-8-gba513d0.58-tf2ii is out!"
+		"Notes" "Version 1.6.3-10-g055989c.77-tf2ii is out!"
 		"Notes" "Go to https://github.com/servadestroya/TF2-Taunts-TF2IDB to see the changes"
 	}
 	"Files"
 	{
+		"Plugin" "Path_SM/plugins/tf2_taunts_tf2idb.smx"
 		"Source" "Path_SM/scripting/tf2_taunts_tf2idb.sp"
+		"Source" "Path_SM/scripting/include/updater.inc"
+		"Source" "Path_SM/scripting/include/tf2items.inc"
+		"Source" "Path_SM/scripting/include/tf2idb.inc"
+		"Source" "Path_SM/scripting/include/tf2itemsinfo.inc"
 		"Source" "Path_SM/scripting/include/tf2_taunts_tf2idb/target_symbols.inc"
 		"Source" "Path_SM/scripting/include/tf2_taunts_tf2idb/taunt_cache_system.inc"
 		"Source" "Path_SM/scripting/include/tf2_taunts_tf2idb/taunt_enforcer.inc"
