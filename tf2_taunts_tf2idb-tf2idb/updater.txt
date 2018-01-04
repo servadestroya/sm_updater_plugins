@@ -1,0 +1,31 @@
+"Updater"
+{
+	"Information"
+	{
+		"Version"
+		{
+			"Latest" "1.6.3-updater_test5-1-g3b65650.84-tf2idb"
+		}
+		"Notes" "Version 1.6.3-updater_test5-1-g3b65650.84-tf2idb is out!"
+		"Notes" "Go to https://github.com/servadestroya/TF2-Taunts-TF2IDB to see the changes"
+	}
+	"Files"
+	{
+		"Plugin" "Path_SM/plugins/tf2_taunts_tf2idb.smx"
+		"Source" "Path_SM/scripting/tf2_taunts_tf2idb.sp"
+		"Source" "Path_SM/scripting/include/updater.inc"
+		"Source" "Path_SM/scripting/include/tf2items.inc"
+		"Source" "Path_SM/scripting/include/tf2idb.inc"
+		"Source" "Path_SM/scripting/include/tf2itemsinfo.inc"
+		"Source" "Path_SM/scripting/include/tf2_taunts_tf2idb/target_symbols.inc"
+		"Source" "Path_SM/scripting/include/tf2_taunts_tf2idb/taunt_cache_system.inc"
+		"Source" "Path_SM/scripting/include/tf2_taunts_tf2idb/taunt_enforcer.inc"
+		"Source" "Path_SM/scripting/include/tf2_taunts_tf2idb/tf2_extra_stocks.inc"
+		"Source" "Path_SM/scripting/include/tf2_taunts_tf2idb/tf2_taunts_tf2idb.inc"
+		"Source" "Path_SM/scripting/include/tf2_taunts_tf2idb/autoversioning.inc"
+		"Source" "Path_SM/scripting/include/tf2_taunts_tf2idb/updater_helpers.inc"
+		"Plugin" "Path_SM/gamedata/tf2.tauntem.txt"
+		"Plugin" "Path_SM/translations/tf2.taunts.tf2idb.txt"
+		"Plugin" "Path_SM/translations/es/tf2.taunts.tf2idb.txt"
+	}
+}
